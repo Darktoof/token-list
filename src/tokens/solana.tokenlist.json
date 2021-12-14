@@ -39945,6 +39945,17 @@
         "twitter": "https://twitter.com/PAC918coin",
         "website": "https://pac918.com/coin"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BeNcVUQJFTZzXHDVMstCJc9p5d9KMQvx7zL2qcNtBnC3",
+      "symbol": "BPLA",
+      "name": "BELOW POVERTY LEVEL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Darktoof/BELOWPOVERTYLEVEL/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
