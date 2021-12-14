@@ -39950,9 +39950,9 @@
       "chainId": 101,
       "address": "BeNcVUQJFTZzXHDVMstCJc9p5d9KMQvx7zL2qcNtBnC3",
       "symbol": "BPLA",
-      "name": "BELOW POVERTY LEVEL",
+      "name": "Below Poverty Level Token",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/Darktoof/BELOWPOVERTYLEVEL/main/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/Darktoof/token-list/main/logo.png",
       "tags": [
         "social-token"
       ]
